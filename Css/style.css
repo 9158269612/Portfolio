@@ -25,3 +25,17 @@ nav a{
 	 margin:0px 0px 10px 0px;
 	 padding:10px;
    }
+.landing{
+	text-align:center;
+	background-color:cyan;
+	height:100vh;            //jitna dikhayi deta hai utna hi color failega vh-viewport
+}
+h1{
+	margin:0px;
+	padding:10px;
+}
+.container{
+	 top:45%;
+	 left:45%;
+	 position:absolute;
+}
